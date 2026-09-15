@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://ci24wa1ugocft"]
+
+[ext_resource type="Script" uid="uid://dm7jpstnw6syq" path="res://aula_1___variaveis.gd" id="1_h5725"]
+
+[node name="Cena 1 - Variaveis" type="Node2D" unique_id=76529649]
+script = ExtResource("1_h5725")
