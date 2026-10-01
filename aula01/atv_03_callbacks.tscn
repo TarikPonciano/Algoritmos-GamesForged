@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://dtxx4gxcy7u1h"]
+
+[ext_resource type="Script" uid="uid://buqo84hlc56sq" path="res://aula01/atv_03_callbacks.gd" id="1_vt3qi"]
+
+[node name="Atv03Callbacks" type="Node2D" unique_id=154101657]
+script = ExtResource("1_vt3qi")
