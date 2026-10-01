@@ -1,7 +1,5 @@
 extends Node2D
 
-var quadros = 0
-var tempo = 0
 # Called when the node enters the scene tree for the first time.
 func _ready() -> void:
 	print("Rodou o _ready")
